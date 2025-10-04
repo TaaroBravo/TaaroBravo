@@ -1,6 +1,6 @@
 <!-- Header image -->
 <p align="center">
-  <img src="logo.PNG" alt="Header" width="100%" />
+  <img src="./logo.PNG" alt="Header" width="100%" />
 </p>
 
 ---
