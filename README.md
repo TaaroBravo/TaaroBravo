@@ -4,7 +4,7 @@
 
 ---
 
-# Lautaro Bravo
+# Lautaro Bravo de la Serna — Senior Unity Engineer
 
 **Senior Unity Engineer** with 7+ years of experience developing and shipping games for PC, mobile, and VR.  
 Focused on **gameplay programming**, **AI systems**, and **tools development** with clean architecture and performance in mind.
@@ -29,7 +29,8 @@ Spring Boot • FastAPI • Docker • Kafka • Microservices
 
 ### Also Find Me On
 - Portfolio: [lautarobravo.com](https://lautarobravo.com)  
-- Itch.io: [taarobravo.itch.io](https://taarobravo.itch.io)  
+- Itch.io: [taarobravo.itch.io](https://taarobravo.itch.io)
+- Unity Asset Store: [LocalizePro](https://assetstore.unity.com/packages/tools/localization/localizepro-308854)
 - Udemy: [Lautaro Bravo](https://www.udemy.com/user/lautaro-bravo)  
 - Amazon Author: [Books](https://www.amazon.com/s?k=lautaro+bravo+de+la+serna)
 
