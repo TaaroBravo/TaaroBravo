@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="codearte-white.png" alt="Header" width="100%" />
+  <img src="codearte_white.png" alt="Header" width="100%" />
 </p>
 
 ---
