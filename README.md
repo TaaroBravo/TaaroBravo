@@ -4,20 +4,19 @@
 
 ---
 
-# Lautaro Bravo de la Serna — Senior Unity Engineer
+# Lautaro Bravo de la Serna
 
-**Senior Unity Engineer** with 7+ years of experience developing and shipping games for PC, mobile, and VR.  
-Focused on **gameplay programming**, **AI systems**, and **tools development** with clean architecture and performance in mind.
+**Senior Unity Engineer** | Mobile F2P Games | 50M+ Players
 
-I’ve worked on titles published on **Steam**, **App Store**, and **Google Play**, and led teams in both **indie** and **AA** environments.
+7+ years shipping live games on iOS and Android. At Etermax, I built multiplayer systems, LiveOps features, and analytics integrations for Trivia Crack 2 and Merge Home.
 
----
+## What I work on
 
-### Areas of Expertise
-Unity • C# • Gameplay Systems • Tools • AI • Optimization • Clean Architecture  
-Spring Boot • FastAPI • Docker • Kafka • Microservices
-
----
+- **Gameplay Systems** – Core loops, progression, economy balancing
+- **Multiplayer** – Turn-based systems, matchmaking, state synchronization
+- **LiveOps** – Remote config, A/B testing, seasonal events
+- **Monetization** – IAP integration, rewarded ads, offer systems
+- **Backend Collaboration** – Java/Kotlin services, REST APIs
 
 ### Featured Work
 - [GOAP AI (Unity)](https://github.com/TaaroBravo/goap-ai) – Goal-Oriented Action Planning system for autonomous agents.  
@@ -25,17 +24,9 @@ Spring Boot • FastAPI • Docker • Kafka • Microservices
 - [Semantic Audio Search](https://github.com/TaaroBravo/semantic-audio-search) – Self-hosted AI search for sound libraries.  
 - [LocalizePro](https://assetstore.unity.com/packages/tools/localization/localizepro-308854) – Professional localization tool published on the Unity Asset Store.
 
----
+## Links
 
-### Also Find Me On
-- Portfolio: [lautarobravo.com](https://lautarobravo.com)  
-- Itch.io: [taarobravo.itch.io](https://taarobravo.itch.io)
-- Unity Asset Store: [LocalizePro](https://assetstore.unity.com/packages/tools/localization/localizepro-308854)
-- Udemy: [Lautaro Bravo](https://www.udemy.com/user/lautaro-bravo)  
-- Amazon Author: [Books](https://www.amazon.com/s?k=lautaro+bravo+de+la+serna)
+- Portfolio: [lautarobravo.com](https://lautarobravo.com)
+- LinkedIn: [linkedin.com/in/lautaro-bravo-de-la-serna](https://linkedin.com/in/lautaro-bravo-de-la-serna)
 
----
-
-<p align="center">
-  <sub>© 2025 Lautaro Bravo — Senior Unity Engineer & Technical Author</sub>
-</p>
+Argentina · Open to remote
