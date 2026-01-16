@@ -8,7 +8,7 @@
 
 **Senior Unity Engineer** | Mobile F2P Games | 50M+ Players
 
-7+ years shipping live games on iOS and Android. At Etermax, I built multiplayer systems, LiveOps features, and analytics integrations for Trivia Crack 2 and Merge Home.
+8+ years shipping live games on iOS and Android. At Etermax, I built multiplayer systems, LiveOps features, and analytics integrations for Trivia Crack 2 and Merge Home.
 
 ## What I work on
 
